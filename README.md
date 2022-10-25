@@ -1,6 +1,6 @@
 # Election_Analysis
 ## Overview of Election Audit
-  The purpose of this election audit analysis is an overview election data between the following counties: Arapahoe, Denver, and Jefferson. We use the following programmatic tools such as Python, Git Bash and Visula Studio to implement the results. In addition, we can see in our final project the winner status, total votes, and much more.  
+>The purpose of this election audit analysis is an overview election data between the following counties: Arapahoe, Denver, and Jefferson. We use the following programmatic tools such as Python, Git Bash and Visula Studio to implement the results. In addition, we can see in our final project the winner status, total votes, and much more.  
  
 ## Election-Audit Results
 ![election_results](https://user-images.githubusercontent.com/114452770/197665433-685ac99d-dbe4-4f9b-9c53-29db5b1dc1dd.PNG)
@@ -13,9 +13,21 @@ During this anaylsis we will review the following data:
   5. Largest County Turnout
   6. The Election Winner
  
-The python script and the CSV election data set mode for the analysis to preform the data in a readable set. By breaking down the votes pattens, we're able to preformed calculations on counts also, while utilizing the loops and conditional statments to our report analysis. 
+>The python script and the CSV election data set mode for the analysis to preform the data in a readable set. By breaking down the votes pattens, we're able to preformed calculations on counts also, while utilizing the loops and conditional statments to our report analysis. 
 
-# Election-Audit bulleted list.
-9
+### Election-Audit bulleted list.
+
+*Total votes casted in this congressional election: 369,711
+
+*Candidates names: Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane
+
+*County votes: Jefferson 10.5% (38,855), Denver 82.8% (306,055), and Arapahoe 6.7% (24,801)
+
+*The county with largest number votes: Denver
+
+*Candidates votes/precentage breakdown: Charles (85,213) 23.0%, Diana (272,892) 73.8%, and Raymon (11,606) 3.1%
+
+*WINNER: Diana DeGette with votes count of 242,892 and precentage of 73.8%
+
 
 ## Election-Audit Summary
