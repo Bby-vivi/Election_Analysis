@@ -1,7 +1,7 @@
 # Election_Analysis
 ## Overview of Election Audit
   The purpose of this election audit analysis is an overview election data between the following counties:
-    * Arapahoe
+    # Arapahoe
     # Denver
     # Jefferson
 ## Election-Audit Results
