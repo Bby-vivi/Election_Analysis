@@ -31,4 +31,9 @@ During this anaylsis we will review the following data:
 
 
 ## Election-Audit Summary
->In summary for future proposal 
+>In this summary for future proposal we can include two alternative codes to improve this data analysis. By adding addition codes to provide insight on past county votes percentages, will to have a better overview of past elections. Furthermore, the more data the better. We can get a better and bigger picture of the election. By adding the lowest turnout votes and percentage will provide the data to accomplish this goal. 
+
+![Past county votes precentages](https://user-images.githubusercontent.com/114452770/197873299-dbc2e05a-e299-4d05-b430-bf591bcf117d.PNG)
+![Lowest turnout and precentage](https://user-images.githubusercontent.com/114452770/197873318-13725ba8-1361-498e-a655-d2c8caf44fb0.PNG)
+
+
